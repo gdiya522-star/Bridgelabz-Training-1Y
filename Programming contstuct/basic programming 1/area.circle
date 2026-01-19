@@ -1,0 +1,10 @@
+class area of circle
+{
+  public static void main(string []args)
+  {
+  int r=1;
+  int area=3.14*r*r;
+  System.out.println("Area of circle");
+  }
+}
+  
